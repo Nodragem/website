@@ -1,6 +1,6 @@
 +++
 date = '2025-12-13T11:22:46Z'
-draft = true
+draft = false
 title = 'Devlog #01'
 featuredImage = 'thumbnail.png'
 description = 'this is a short description of my article'

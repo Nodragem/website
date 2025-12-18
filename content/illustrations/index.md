@@ -1,6 +1,6 @@
 +++
 date = '2025-12-13T11:22:46Z'
-draft = true
+draft = false
 title = 'Gallery Illustrations'
 lightgallery = true
 +++
