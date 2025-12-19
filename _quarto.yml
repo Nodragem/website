@@ -23,6 +23,8 @@ website:
         href: https://twitter.com
 format:
   html:
+    # template-partials:
+    #   - _partials/title-block.html
     theme: 
       - lumen
       - css/_variables-dark.scss
