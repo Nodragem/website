@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  description: "Making Games and Comics"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Nodragem Makes:"
+  navbar:
+    left:
+      - ""
+      - text: Games
+        href: games/index.qmd
+      - text: Comics
+        href: comics/index.qmd
+      - text: Illustrations
+        href: illustrations/index.qmd
+      - text: Blog-Posts
+        href: posts/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+      - lumen
+      - css/_variables-dark.scss
+    css: css/styles.css
+
+
+

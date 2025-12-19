@@ -1,0 +1,51 @@
+---
+title: "Gallery of Illustrations"
+description: "Post description"
+lightbox: true
+cap-location: top
+---
+
+:::::: {.panel-tabset}
+
+### Hansel & Gretel
+
+![Character Line Up](h&g/line-up_Final-1.jpg){group="hg-gallery"}
+
+![Spread 01 - Coming back home ...](h&g/Portfolio01-H_and_G_page_1and2-low-res.jpg){group="hg-gallery"}
+
+![Spread 02 - The stepmother was not kind ...](h&g/H-and-G_spread-02.webp){group="hg-gallery"}
+
+![Discovering the Candy House (At Dawn)](h&g/Portfolio04-H_and_G_page_X2.jpg){group="hg-gallery"}
+
+![Discovering the Candy House (At Night)](h&g/Candy_House_Characters.jpg){group="hg-gallery"}
+
+![Gretel Turn around](h&g/Hansel.jpg){group="hg-gallery"}
+
+![Hansel Turn around](h&g/Grefel_Turnaround%20(1).jpg){group="hg-gallery"}
+
+### Other
+
+![Alt text](Portfolio_John_space_tentacle2.jpg){group="other-gallery"}
+
+![Alt text](van-vs-dino3.jpg){group="other-gallery"}
+
+![Alt text](Portfolio06-Ronan_Wasp.jpg){group="other-gallery"}
+
+::: {layout-ncol=2}
+![Alt text](bear%20and%20the%20bee.jpg){group="other-gallery"}
+
+![Alt text](Robbotprabbit-color_export.jpg){group="other-gallery"}
+:::
+
+::: {layout-ncol=2}
+![Alt text](Frog%20-%20bard%20color.jpg){group="other-gallery"}
+
+![Alt text](space-pig-blue.jpg){group="other-gallery"}
+:::
+
+![Alt text](kid%20and%20spider-lowres.jpg){group="other-gallery"}
+
+
+![Alt text](Portfolio01-a.jpg){group="other-gallery"}
+
+::::::

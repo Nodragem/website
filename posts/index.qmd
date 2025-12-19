@@ -1,0 +1,17 @@
+---
+title: "Blog posts"
+listing:
+  contents: .
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: false
+  image-align: left
+  image-height: 80%
+page-layout: full
+title-block-banner: false
+---
+
+

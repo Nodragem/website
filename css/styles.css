@@ -1,0 +1,43 @@
+/* css styles */
+@font-face {
+  font-family: BowlbyOne; /* set name */
+  src: url(../fonts/BowlbyOne-Regular.ttf); /* url of the font */
+}
+@font-face {
+  font-family: GloriaH; /* set name */
+  src: url(../fonts/GloriaHallelujah-Regular.ttf); /* url of the font */
+}
+@font-face {
+  font-family: LondonP; /* set name */
+  src: url(../fonts/london-presley.ttf); /* url of the font */
+}
+
+.form-select {
+   background-color: #5555;
+}
+
+.input-group-text {
+   background-color: #555;
+}
+.form-control {
+   background-color: #555;
+}
+.form-control:focus {
+   background-color: #333;
+}
+
+figcaption {
+   text-align: center;
+}
+.navbar {
+   font-family: GloriaH;
+}
+.navbar-title {
+   font-family: LondonP;
+   font-size: x-large;
+}
+
+.navbar-collapse {
+   align-items: center;
+   justify-content: space-between;
+}

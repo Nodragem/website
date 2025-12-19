@@ -1,0 +1,33 @@
+---
+title: "Games And Tools"
+description: "Released and Work in Progess"
+listing:
+  contents: 
+    - path: https://nodragem.github.io/happy-dogfights-website
+      image: happy-dogfights-header.jpg
+      title: "The Prabbits: Happy Dogfights!"
+      description: "The Prabbits: Happy Dogfights! is a fast-paced, 4 player party game, where you take the air as a Prabbit. Always up for a friendly fight, the prabbits are organising all kinds on tournaments with their new flying machines"
+      date: "2021-08-26"
+      categories: [released, game]
+    - path: https://github.com/Nodragem/top-down-action-adventure-starter-kit
+      image: top-down-starter-kit.png
+      title: "Godot Starter Kit: Top-Down Action Game"
+      description: "A starter kit that will show you how to use Gridmap, Behaviour Trees, Dialogic and Advanced Import scripts to create Cut Scenes, Switch/Door Systems, Destructible Assets and Game Events. It also implements a Character Controllers for keyboard/mouse and gamepad!"
+      date: "2024-09-05"
+      categories: [released, starter-kit]
+    - path: https://nodragem.itch.io/catch-the-crown
+      image: catch-the-crown.gif
+      title: "The Prabbits: Catch the Crown!"
+      description: "The Prabbits: Catch the Crown! is a local competitive arena game where you collect coins until the time is up to be the richest Prabbit... But, only the Prabbit carrying the crown can collect coins, and you will have to fight for it."
+      date: "2017-05-13"
+      categories: [released, game]
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  image-align: left
+  image-height: 80%
+page-layout: full
+title-block-banner: false
+---
