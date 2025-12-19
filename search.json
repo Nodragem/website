@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog posts",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nPost With Code 2\n\n\n\nnews\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geoffrey Mégardon | Nodragem",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "games/index.html",
+    "href": "games/index.html",
+    "title": "Games And Tools",
+    "section": "",
+    "text": "Godot Starter Kit: Top-Down Action Game\n\n\n\nreleased\n\nstarter-kit\n\n\n\nA starter kit that will show you how to use Gridmap, Behaviour Trees, Dialogic and Advanced Import scripts to create Cut Scenes, Switch/Door Systems, Destructible Assets and…\n\n\n\nSep 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Prabbits: Happy Dogfights!\n\n\n\nreleased\n\ngame\n\n\n\nThe Prabbits: Happy Dogfights! is a fast-paced, 4 player party game, where you take the air as a Prabbit. Always up for a friendly fight, the prabbits are organising all…\n\n\n\nAug 26, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Prabbits: Catch the Crown!\n\n\n\nreleased\n\ngame\n\n\n\nThe Prabbits: Catch the Crown! is a local competitive arena game where you collect coins until the time is up to be the richest Prabbit… But, only the Prabbit carrying the…\n\n\n\nMay 13, 2017\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "css/readme.html",
+    "href": "css/readme.html",
+    "title": "Nodragem Makes:",
+    "section": "",
+    "text": "We use https://bootstrap.build to build the css. First Select the Lumen Free Theme then import the _variables.scss"
+  },
+  {
+    "objectID": "illustrations/index.html",
+    "href": "illustrations/index.html",
+    "title": "Gallery of Illustrations",
+    "section": "",
+    "text": "Hansel & GretelOther\n\n\n\n\nCharacter Line Up\n\n\n\n\n\nSpread 01 - Coming back home …\n\n\n\n\n\nSpread 02 - The stepmother was not kind …\n\n\n\n\n\nDiscovering the Candy House (At Dawn)\n\n\n\n\n\nDiscovering the Candy House (At Night)\n\n\n\n\n\nGretel Turn around\n\n\n\n\n\nHansel Turn around\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\nAlt text\n\n\n\n\n\nAlt text\n\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\n\n\n\nAlt text\n\n\n\n\n\nAlt text"
+  },
+  {
+    "objectID": "posts/another/index.html",
+    "href": "posts/another/index.html",
+    "title": "Post With Code 2",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
