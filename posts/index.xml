@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Nodragem Makes:</title>
-<link>https://your-website-url.example.com/posts/</link>
-<atom:link href="https://your-website-url.example.com/posts/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://nodragem.github.io/website/posts/</link>
+<atom:link href="https://nodragem.github.io/website/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description>Making Games and Comics</description>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code 2</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/another/</link>
+  <link>https://nodragem.github.io/website/posts/another/</link>
   <description><![CDATA[ 
 
 
@@ -27,14 +27,14 @@
  ]]></description>
   <category>news</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/another/</guid>
+  <guid>https://nodragem.github.io/website/posts/another/</guid>
   <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/another/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nodragem.github.io/website/posts/another/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://nodragem.github.io/website/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -48,28 +48,28 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://nodragem.github.io/website/posts/post-with-code/</guid>
   <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nodragem.github.io/website/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://nodragem.github.io/website/posts/welcome/</link>
   <description><![CDATA[ 
 
 
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://nodragem.github.io/website/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://nodragem.github.io/website/posts/welcome/</guid>
   <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
