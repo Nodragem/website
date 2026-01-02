@@ -2,6 +2,28 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+@font-face {
+  font-family: BowlbyOne; /* set name */
+  src: url(/fonts/BowlbyOne-Regular.ttf) format('truetype');; /* url of the font */
+}
+@font-face {
+  font-family: GloriaH; /* set name */
+  src: url(/fonts/GloriaHallelujah-Regular.ttf) format('truetype');; /* url of the font */
+}
+@font-face {
+  font-family: LondonP; /* set name */
+  src: url(/fonts/london-presley.ttf) format('truetype');; /* url of the font */
+}
+
+.menu-inner {
+    font-family: GloriaH;
+}
+
+.header-title {
+    font-family: LondonP;
+}
+
 .featured-image-preview {
     width: 100%;
     padding: 30% 0 0;
@@ -18,6 +40,7 @@
     object-fit: cover;
     }
 }
+
 .container {
     display: flex;
     flex-direction: row;

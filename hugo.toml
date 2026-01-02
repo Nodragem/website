@@ -1,4 +1,4 @@
-baseURL = "https://nodragem.github.io/website"
+baseURL = "https://nodragem.github.io"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -16,6 +16,17 @@ custom_css = ["style.css"]
 [params]
   # DoIt theme version
   version = "0.2.X"
+[params.home.profile]
+  enable = true
+  # Gravatar Email for preferred avatar in home page
+  gravatarEmail = ""
+  # URL of avatar shown in home page
+  avatarURL = "/img/profile.jpg"
+  # URL the avatar links to
+  avatarLinkURL = ""
+[params.social]
+  Bluesky = "@nodragem.bsky.social"
+  Twitter = "@nodragem"
 
 [menu]
   [[menu.main]]
