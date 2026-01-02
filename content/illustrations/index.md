@@ -21,22 +21,49 @@ lightgallery = true
 
 {{% /tab %}}
 
+{{% tab title="John Space" %}}
+
+{{< image src="john space/Portfolio_John_space_tentacle2.jpg" caption="John Space Vs Tentacles">}}
+{{< image src="john space/Pose_Sheet-sharp.jpg" caption="John Space - Pose Sheet">}}
+{{< image src="john space/concept_variation.jpg" caption="John Space - Variations">}}
+{{< image src="john space/John_Expression_sheet.jpg" caption="John Space - Expression Sheet">}}
+
+{{% /tab %}}
+
+{{% tab title="Characters" %}}
+
+{{< image src="characters/3 guysb1.jpg" caption="Stylised Fighters">}}
+{{< container >}}
+{{< image src="characters/space-pig-blue.jpg" caption="Pig Space Ranger">}}
+{{< image src="characters/Frog - bard color.jpg" caption="Frog Bard">}}
+{{< /container >}}
+{{< container >}}
+{{< image src="characters/Portfolio05-Ronan_Poses.jpg" caption="Ronan">}}
+{{< image src="characters/Portfolio08-Heman-color.jpg" caption="He-man fan-art">}}
+{{< /container >}}
+{{< container >}}
+{{< image src="characters/octopus1.jpg" caption="Octopus Diver">}}
+{{< image src="characters/bear and the bee.jpg" caption="Humanoid Bear">}}
+{{< /container >}}
+{{< image src="characters/pigs.jpg" caption="Pig Character Designs">}}
+{{< image src="characters/Portfolio11-TURTLES.jpg" caption="Turtle Designs">}}
+{{< image src="characters/Robbotprabbit-color_export.jpg" caption="Prabbit Bot">}}
+
+{{% /tab %}}
+
 {{% tab title="Other" %}}
 
+{{< image src="other/Portfolio_John_space_tentacle2.jpg" caption="No Caption" >}}
 {{< container >}}
 {{< image src="other/bear%20and%20the%20bee.jpg" caption="No Caption" >}}
 {{< image src="other/Robbotprabbit-color_export.jpg" caption="No Caption" >}}
 {{< /container >}}
-
+{{< image src="other/van-vs-dino3.jpg" caption="No Caption" >}}
 {{< container >}}
 {{< image src="other/Frog%20-%20bard%20color.jpg" caption="No Caption" >}}
 {{< image src="other/space-pig-blue.jpg" caption="No Caption" >}}
 {{< /container >}}
-
-{{< image src="other/Portfolio_John_space_tentacle2.jpg" caption="No Caption" >}}
-{{< image src="other/van-vs-dino3.jpg" caption="No Caption" >}}
 {{< image src="other/Portfolio06-Ronan_Wasp.jpg" caption="No Caption" >}}
-
 {{< image src="other/kid%20and%20spider-lowres.jpg" caption="No Caption" >}}
 {{< image src="other/Portfolio01-a.jpg" caption="No Caption" >}}
 
