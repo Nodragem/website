@@ -22,8 +22,10 @@ lightgallery = true
 {{% /tab %}}
 
 {{% tab title="John Space" %}}
-
-{{< image src="john space/Portfolio_John_space_tentacle2.jpg" caption="John Space Vs Tentacles">}}
+{{< image src="john space/John_vs_caterpillar_tshirt1.webp" caption="John Space vs Giant Caterpillar - Variant 1">}}
+{{< image src="john space/John_vs_caterpillar_tshirt2.webp" caption="John Space vs Giant Caterpillar - Variant 2">}}
+{{< image src="john space/Portfolio_John_space_tentacle-1_tshirt1.webp" caption="John Space vs Tentacles - cropped">}}
+{{< image src="john space/Portfolio_John_space_tentacle2.jpg" caption="John Space vs Tentacles">}}
 {{< image src="john space/Pose_Sheet-sharp.jpg" caption="John Space - Pose Sheet">}}
 {{< image src="john space/concept_variation.jpg" caption="John Space - Variations">}}
 {{< image src="john space/John_Expression_sheet.jpg" caption="John Space - Expression Sheet">}}
@@ -46,26 +48,24 @@ lightgallery = true
 {{< image src="characters/bear and the bee.jpg" caption="Humanoid Bear">}}
 {{< /container >}}
 {{< image src="characters/pigs.jpg" caption="Pig Character Designs">}}
+{{< container >}}
+{{< image src="characters/Scan_20230812 (2).png" caption="Octopus Diver">}}
+{{< image src="characters/warrior-toad.jpg" caption="Humanoid Bear">}}
+{{< /container >}}
 {{< image src="characters/Portfolio11-TURTLES.jpg" caption="Turtle Designs">}}
-{{< image src="characters/Robbotprabbit-color_export.jpg" caption="Prabbit Bot">}}
 
 {{% /tab %}}
 
 {{% tab title="Other" %}}
 
-{{< image src="other/Portfolio_John_space_tentacle2.jpg" caption="No Caption" >}}
-{{< container >}}
-{{< image src="other/bear%20and%20the%20bee.jpg" caption="No Caption" >}}
-{{< image src="other/Robbotprabbit-color_export.jpg" caption="No Caption" >}}
-{{< /container >}}
-{{< image src="other/van-vs-dino3.jpg" caption="No Caption" >}}
-{{< container >}}
-{{< image src="other/Frog%20-%20bard%20color.jpg" caption="No Caption" >}}
-{{< image src="other/space-pig-blue.jpg" caption="No Caption" >}}
-{{< /container >}}
-{{< image src="other/Portfolio06-Ronan_Wasp.jpg" caption="No Caption" >}}
-{{< image src="other/kid%20and%20spider-lowres.jpg" caption="No Caption" >}}
-{{< image src="other/Portfolio01-a.jpg" caption="No Caption" >}}
+{{< image src="others/directeur-financier-color2_tshirt.webp" caption="Financial Director">}}
+{{< image src="others/kid and spider-lowres.jpg" caption="Kid and the Spider">}}
+{{< image src="others/Portfolio01-a.jpg" caption="Looking for the missing sheep">}}
+{{< image src="characters/Robbotprabbit-color_export.jpg" caption="Prabbit Bot">}}
+{{< image src="others/Portfolio06-Ronan_Wasp.jpg" caption="Ronan vs Wasp">}}
+{{< image src="others/van-vs-dino3.jpg" caption="Tooth Cleaning Corp">}}
+<!-- {{< image src="others/House1.jpg" caption="other">}} -->
+<!-- {{< image src="others/spaceship1.jpg" caption="other">}} -->
 
 {{% /tab %}}
 
