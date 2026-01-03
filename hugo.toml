@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "Nodragem Makes:"
+logo = "logo.png"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
@@ -30,6 +31,9 @@ custom_css = ["style.css"]
   Twitter = "@nodragem"
   GitHub = "Nodragem"
   Instagram = "nodragem"
+
+[params.header.title]
+  logo="img/logo.png"
 
 [menu]
   [[menu.main]]
