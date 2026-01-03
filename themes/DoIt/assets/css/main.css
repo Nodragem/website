@@ -604,13 +604,13 @@ ul {
   /* Color of the link */
   --global-link-color: #161209;
   /* Color of the hover link */
-  --global-link-hover-color: #2d809a;
+  --global-link-hover-color: #434b52;;
   /* Color of the border */
   --global-border-color: #f0f0f0;
   /* ========== Global ========== */
   /* ========== Selection ========== */
   /* Color of the selected text */
-  --selection-color: #35a6f740;
+  --selection-color: #56742040;
   /* ========== Selection ========== */
   /* ========== Header ========== */
   /* Color of the header background */
@@ -727,12 +727,12 @@ html.dark {
   --global-font-color: var(--fgColor-default);
   --global-font-secondary-color: var(--fgColor-secondary);
   --global-link-color: var(--fgColor-default);
-  --global-link-hover-color: #ffffff;
+  --global-link-hover-color: #b6cee4;
   --global-border-color: var(--borderColor-default);
   --selection-color: var(--selection-bgColor);
   --header-background-color: #6498d8;
   --header-hover-color: #ffffff;
-  --header-delimiter: var(--fgColor-muted);
+  --header-delimiter: var(--fgColor-default);
   --search-background-color: var(--bgColor-default);
   --search-empty-font-color: var(--fgColor-secondary);
   --single-h-font-weight: bolder;
