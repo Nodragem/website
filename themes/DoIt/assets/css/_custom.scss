@@ -16,6 +16,16 @@
   src: url(/fonts/london-presley.ttf) format('truetype');; /* url of the font */
 }
 
+.home[posts] {
+  .home-avatar img {
+    width: 20rem;
+  }
+  .single {
+    text-align: center;
+  }
+}
+
+
 .menu-inner {
     font-family: GloriaH;
 }
