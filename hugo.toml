@@ -3,7 +3,7 @@ baseURL = "https://nodragem.github.io/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Nodragem Makes:"
+title = ""
 logo = "logo.png"
 
 # Change the default theme to be use when building the site with Hugo
@@ -34,6 +34,7 @@ custom_css = ["style.css"]
 
 [params.header.title]
   logo="img/logo.png"
+  name="Nodragem Makes:"
 
 [menu]
   [[menu.main]]

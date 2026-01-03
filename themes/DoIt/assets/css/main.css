@@ -850,6 +850,10 @@ html.dark {
   margin-right: 0.25rem;
 }
 
+.tw-mr-2 {
+  margin-right: 0.5rem;
+}
+
 .\!tw-block {
   display: block !important;
 }
