@@ -33,7 +33,7 @@ custom_css = ["style.css"]
   Instagram = "nodragem"
 
 [params.header.title]
-  logo="img/logo.png"
+  logo="/img/logo.png"
   name="Nodragem Makes:"
 
 [menu]
