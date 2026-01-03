@@ -22,13 +22,14 @@ header {
   font-weight: bold;
   margin-right: 0.5rem;
   min-width: 10%;
+  max-width: 15rem;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
   @include flex(10);
 }
 
-.menu .menu-item {
+.menu-item {
   position: relative;
 }
 
@@ -145,11 +146,14 @@ header {
     }
 
     .menu {
+      position: relative;
+      margin-right: auto;
+      margin-left: 0%;
       overflow: hidden;
       white-space: nowrap;
 
       .menu-inner {
-        float: right;
+        float: left;
       }
 
       .menu-item {

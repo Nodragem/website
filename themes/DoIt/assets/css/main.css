@@ -614,7 +614,7 @@ ul {
   /* ========== Selection ========== */
   /* ========== Header ========== */
   /* Color of the header background */
-  --header-background-color: #f8f8f8;
+  --header-background-color: #6498d8;
   /* Color of the hover header item */
   --header-hover-color: #161209;
   --header-delimiter: unset;
@@ -730,7 +730,7 @@ html.dark {
   --global-link-hover-color: #ffffff;
   --global-border-color: var(--borderColor-default);
   --selection-color: var(--selection-bgColor);
-  --header-background-color: var(--bgColor-secondary);
+  --header-background-color: #6498d8;
   --header-hover-color: #ffffff;
   --header-delimiter: var(--fgColor-muted);
   --search-background-color: var(--bgColor-default);
